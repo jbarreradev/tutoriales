@@ -1,5 +1,8 @@
 Guias
 
+Conceptos basicos de css
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics
+
 Crear Barra de navegacion (nav bar)
 https://www.w3schools.com/css/css_navbar_horizontal.asp
 
